@@ -1,6 +1,6 @@
 # Java-Classes-Colecction
 
-📘 **Repositório de estudos sobre a linguagem Java com foco em variáveis, operadores e estruturas básicas.**
+ **Repositório de estudos sobre a linguagem Java com foco em variáveis, operadores e estruturas básicas.**
 
 Este repositório contém anotações, exercícios e testes desenvolvidos a partir da **Apostila de Linguagem de Programação Java - FATEC ADS**, com o objetivo de reforçar os fundamentos da linguagem e registrar o aprendizado prático das aulas.
 
@@ -10,7 +10,7 @@ Este repositório contém anotações, exercícios e testes desenvolvidos a part
 
 Este projeto explora os seguintes tópicos da linguagem Java:
 
-### ✅ Definições Iniciais
+###  Definições Iniciais
 
 * Estrutura básica de um programa Java
 * Tipos primitivos:
@@ -24,7 +24,7 @@ Este projeto explora os seguintes tópicos da linguagem Java:
   * Locais
   * De referência (ex: `String`, `Object`)
 
-### 🔁 Operadores em Java
+###  Operadores em Java
 
 * Aritméticos
 * Unários (`+`, `-`, `++`, `--`, `!`, `~`)
@@ -34,7 +34,7 @@ Este projeto explora os seguintes tópicos da linguagem Java:
 * Cast (conversão de tipos)
 * Operadores de escape em `char` e `String` (`\n`, `\t`, etc.)
 
-### 🧪 Exercícios Práticos
+###  Exercícios Práticos
 
 * Declaração e inicialização de variáveis
 * Escopo de variáveis
@@ -46,14 +46,14 @@ Este projeto explora os seguintes tópicos da linguagem Java:
 
 ## 📂 Organização do Repositório
 
-Os arquivos estão organizados por tópicos e seguem uma estrutura didática para facilitar a revisão e experimentação prática:
+Os arquivos estão organizados por tópicos e seguem uma estrutura didática com os nomes das classes
 
 ```
 Java-Classes-Colecction/
 ├── src/
-│   ├── tiposPrimitivos/
-│   ├── operadores/
-│   ├── strings/
+│   ├── DeclaracaoVariaveis/
+│   ├── TestaOperador/
+│   ├── TestaVariaveis/
 │   └── escopo/
 ├── README.md
 └── ...
@@ -65,18 +65,18 @@ Java-Classes-Colecction/
 
 Este repositório tem como finalidade:
 
-* Consolidar o conhecimento adquirido nas aulas da FATEC - ADS.
+* Consolidar o conhecimento adquirido nas aulas do professor Cristovão (Linguagem de Programação).
 * Servir como referência para revisão futura.
-* Compartilhar exemplos práticos e erros comuns em Java para iniciantes.
+* Compartilhar exemplos práticos e erros comuns em Javpara iniciantes.
 
 ---
 
-## 📚 Referência
+## Referência
 
 Apostila base utilizada para os estudos:
 
-**FATEC - ADS - Linguagem de Programação Java**
-📎 [Link para o (Dropbox)](https://www.dropbox.com/scl/fo/sh3sm6wcoqfq1xwz0bd99/AOLz-hMDllkIuiE7NudZLSg?dl=0&rlkey=r2z0ira7iwpdfg76zha0f5kez)
+**FATEC - ADS - Linguagem de programação **
+📎 [Link para o (Dropbox do professor)](https://www.dropbox.com/scl/fo/sh3sm6wcoqfq1xwz0bd99/AOLz-hMDllkIuiE7NudZLSg?dl=0&rlkey=r2z0ira7iwpdfg76zha0f5kez)
 
 ---
 
@@ -88,8 +88,8 @@ Apostila base utilizada para os estudos:
 
 ---
 
-## 🤝 Contribuição
+## Contribuição
 
-Este repositório é voltado para fins acadêmicos, mas contribuições são bem-vindas! Sinta-se livre para abrir issues ou sugerir melhorias.
+Este repositório é voltado para fins acadêmicos, mas contribuições são bem-vindas! Sinta-se livre para abrir issues ou sugerir melhorias
 
 ---
