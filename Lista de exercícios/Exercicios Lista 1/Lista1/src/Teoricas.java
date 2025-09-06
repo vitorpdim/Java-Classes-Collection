@@ -44,7 +44,7 @@ class Teoricas {
     d. .prog
     e. .sh
 
-    a
+    b
 
     14 - Ao compilar o arquivo Programa.java, quantos arquivos com a extensão .class serão gerados?
 
@@ -108,6 +108,8 @@ class Teoricas {
     c. \f
     d. \t
     e. \b
+
+    a
 
     19 - Quais são os marcadores utilizados para inserir comentários nos programas em Java?
 
